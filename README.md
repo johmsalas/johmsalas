@@ -4,7 +4,7 @@
 
 ### Pull requests
 
-- [ThePrimeagen/harpoon#146](https://github.com/ThePrimeagen/harpoon/pull/146): Feat: Allow to provide a custom method to format the file path
+- [ThePrimeagen/harpoon#146](https://github.com/ThePrimeagen/harpoon/pull/146): Neovim plugin. feat: Allow to provide a custom method to format the file path
 
 ### Applications
 
