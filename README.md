@@ -1,6 +1,6 @@
 ### Vim plugins
 
-- [nvim-lua-string-case](https://github.com/johmsalas/nvim-lua-string-case): Supporting Language Server Protocl (LSP), Motion to change string case to camelCase, Title Case, dash-case,... and to bulk modify strings without changing the multiple string cases
+- [Shake.nvim](https://github.com/johmsalas/shake.nvim): Supporting Language Server Protocol (LSP) and Vim operators to change string case to camelCase, Title Case, dash-case or any custom LUA function,... and to bulk modify strings changing the multiple string cases automatically
 
 ### Pull requests
 
